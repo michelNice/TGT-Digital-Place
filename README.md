@@ -1,6 +1,6 @@
 <h1 align="center">TGT Digital Place</h1>
 
-[Test Here](https://effortless-gumption-bbea51.netlify.app)
+[Test Here](https://tgtdigitalplace.netlify.app/)
 
 <h2>Desktop</h2>
 
